@@ -1,7 +1,3 @@
-Confira abaixo um modelo revisado e ampliado do seu README, incorporando recomendações práticas para destacar suas skills em Python e Front-End, alinhando com seu contexto em ADS, e tornando seu perfil ainda mais atrativo para recrutadores e colegas desenvolvedores:[1][2][3][4]
-
-***
-
 # 🎉 Bem-vindo ao Meu Universo Codedástico! 👾
 
 Olá! Sou apaixonado por tecnologia, com uma trajetória que vai desde hardware até programação full-stack. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e busco oportunidades como **Desenvolvedor Python** ou **Front-End** — atuando na interseção entre criatividade, automação e impacto social.
